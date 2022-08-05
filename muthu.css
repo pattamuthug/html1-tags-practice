@@ -1,0 +1,17 @@
+.side{
+    width: 200px;
+    display: block;
+    margin-right: 10%;
+    border: solid 2px blueviolet;
+    padding: 10px;
+    float: right;
+    line-height: 30px;
+}
+table,th,td{
+    border: solid 1px red;
+}
+.division{
+    border: solid 2px black;
+    width: 500px;
+    padding: 5px;
+}
